@@ -1,0 +1,12 @@
+{
+  "id": "yahooMail",
+  "name": "yahoo-mail",
+  "version": "1.0.0",
+  "description": "Yahoo Mail recipe for Franz",
+  "main": "index.js",
+  "author": "Vijay Raghavan Aravamudhan <avijayr@protonmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.yahoo.com"
+  }
+}
